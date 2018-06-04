@@ -1,8 +1,8 @@
 const auth = {
 	discord: {
-		clientID: "",
-		clientSecret: "",
-		clientToken: "",
+		clientID: "437219880178024448",
+		clientSecret: "fBPsb08xgnF0k2RNViRbG4JTBvjr_nGc",
+		clientToken: "NDM3MjE5ODgwMTc4MDI0NDQ4.DfMngw.aiilp7si6bfKWYaEgBqm-wcPn5k",
 	},
 	tokens: {
 		discordBotsOrg: "",
